@@ -36,6 +36,8 @@ print(best_student.grades)
 
 
 class Lecturer(Mentor):
+    pass
 
 
 class Reviewer(Mentor):
+    pass
